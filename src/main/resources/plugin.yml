@@ -1,0 +1,7 @@
+name: Port
+version: '${project.version}'
+main: port.port.Port
+api-version: 1.17
+commands:
+  description:
+    usage: /fireworks
